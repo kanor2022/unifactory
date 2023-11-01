@@ -88,9 +88,9 @@ export default function Footer() {
   const copyright = `© ${projectName} ${year}`
   const SourceCopyright = (
     <>
-     {' '}
-      <a href=" target="_blank" rel="noopener noreferrer">
-        
+      Powered by{' '}
+      <a href="https://flashwap.network" target="_blank" rel="noopener noreferrer">
+        FlashSwap
       </a>
     </>
   )
