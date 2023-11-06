@@ -90,7 +90,7 @@ export default function Footer() {
     <>
       Powered by{' '}
       <a href="https://scrollshiba.xyz" target="_blank" rel="noopener noreferrer">
-        Scroll Shiba
+        Shiba Scroll
       </a>
     </>
   )
