@@ -89,8 +89,8 @@ export default function Footer() {
   const SourceCopyright = (
     <>
       Powered by{' '}
-      <a href="https://flashwap.network" target="_blank" rel="noopener noreferrer">
-        FlashSwap
+      <a href="https://scrollshiba.xyz" target="_blank" rel="noopener noreferrer">
+        Scroll Shiba
       </a>
     </>
   )
