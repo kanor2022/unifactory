@@ -89,8 +89,8 @@ export default function Footer() {
   const SourceCopyright = (
     <>
       Powered by{' '}
-      <a href="https://scrollshiba.xyz" target="_blank" rel="noopener noreferrer">
-        Shiba Scroll
+      <a href="https://scrollpad.network/" target="_blank" rel="noopener noreferrer">
+        Scrollpad
       </a>
     </>
   )
